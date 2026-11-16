@@ -1,0 +1,9 @@
+# секреты и данные
+.env
+data/
+
+# сборка
+/assistant
+/assistant.exe
+/dist/
+*.log
